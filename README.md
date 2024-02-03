@@ -17,5 +17,5 @@ This project is a simple Random Joke Generator that fetches jokes from a joke AP
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/sreya22-git/random-joke-generator.git
-```
+   git clone https://github.com/sreya22-git/Random-Joke-Generator.git
+   ```
